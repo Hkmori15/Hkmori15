@@ -2,7 +2,7 @@
 
 Just obsessed for coding and ☕ (but don't write in Java :D) 
 
-![Hkmori15 Stats](https://github-readme-stats.vercel.app/api?username=<Hkmori15>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Hkmori15 Stats](https://github-readme-stats.vercel.app/api?username=Hkmori15&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
